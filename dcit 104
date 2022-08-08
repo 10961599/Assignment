@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int j=0;
+    int i=2;
+    int sum;
+    while (i<=10000)
+    {
+      ;  sum +=i
+        i=i+2;
+        j++
+       ; float avgerage=sum/j
+    ;}
+
+}
